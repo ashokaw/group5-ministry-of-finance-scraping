@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,page
+Service Category,Salary Code,Initial step,Years,1st Slab,Years,2nd Slab,Years,3rd Slab,Years,4th Slab,Maximum,228
+Primary Level Unskilled,U- PL 1 - 2025,"42,775",10,450,10,490,10,540,12,640,"65,255",228
+Primary Level Semi-skilled,U -PL 2 - 2025,"44,575",10,490,10,540,10,640,12,690,"69,555",228
+Primary Level Skilled,U-PL 3 - 2025,"48,005",10,490,10,540,10,640,12,690,"72,985",228
+"Management Assistants -
+Non Technical",U-MN 1 - 2025,"49,475",10,540,11,640,10,890,10,"1,190","82,715",228
+"Management Assistant -
+Technical",U-MT 1 - 2025,"51,095",7,540,11,640,10,890,13,"1,190","86,285",228
+"Associate Officer- Segment
+2",U-MN 2 - 2025,"61,275",10,890,18,"1,190",8,"1,240",-,-,"101,515",228
+"Associate Officer- Segment
+1",U-MN 3 - 2025,"71,365",10,"1,190",10,"1,700",16,"2,020",-,-,"132,585",228
+"Staff Assistant/Supra &
+Senior Staff Assistant",U-MN 4 - 2025,"71,365",6,"1,190",10,"1,700",5,"2,020",-,-,"105,605",228
+Medical Officer,U-MO 1 - 2025,"93,805",10,"2,400",22,"2,940",-,-,-,-,"182,485",228
+Chief Medical Officer,U-MO 2 - 2025,"161,905",15,"3,900",,,-,-,-,-,"220,405",228
+"Junior
+Executives/Managers",U-Ex 1 - 2025,"85,305",3,"2,020",21,"2,400",-,-,-,-,"141,765",228
+Middle Level Executives,U-Ex 2 - 2025,"113,690",8,"2,400",10,"2,940",8,"3,120",-,-,"187,250",228
+Middle Level Executives,U-Ex 2a - 2025,"150,530",16,"3,900",-,-,-,-,-,-,"212,930",228
+Senior Executives,U-Ex 3 -2025,"166,130",7,"3,900",11,"4,850",-,-,-,-,"246,780",228

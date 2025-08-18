@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9,10,11,page
+Service Category,Salary Code,"Initial
+step",Years,"1st
+Slab",Years,"2nd
+Slab",Years,"3rd
+Slab",Years,"4th
+Slab",Maximum,178
+Primary Level Unskilled,PL 1 - 2025,"40,000",10,450,10,490,10,540,12,590,"61,880",178
+Primary Level Semi-skilled,PL 2 - 2025,"41,800",10,490,10,540,10,590,12,630,"65,560",178
+Primary Level Skilled,PL 3 - 2025,"42,780",10,490,10,540,10,590,12,630,"66,540",178
+Management Assistants Seg 2,MN 1 - 2025,"45,230",10,540,11,630,10,890,10,"1,190","78,360",178
+Management Assistants Seg 1,MN 2 - 2025,"48,470",10,540,11,630,10,"1,010",10,"1,190","82,800",178
+"MA Supervisory Non-
+Tech/Tech",MN 3 -2025,"52,250",10,800,11,"1,190",10,"1,320",10,"1,350","100,040",178
+Associate Officer,MN 4 - 2025,"53,060",10,800,11,"1,190",10,"1,320",5,"1,350","94,100",178
+"Field/ Office based Officer
+Seg 2",MN 5 - 2025,"58,660",10,"1,190",11,"1,360",15,"1,670",-,-,"110,570",178
+"Field/ Office based Officer
+Seg 1",MN 6 - 2025,"62,230",10,"1,190",11,"1,360",15,"1,670",-,-,"114,140",178
+Management Assistants Supra,MN 7 - 2025,"71,240",11,"1,360",18,"1,850",-,,-,-,"119,500",178
